@@ -434,7 +434,7 @@ textarea::-ms-input-placeholder
 	-moz-transition:.3s ease-in-out;
 }
 .scroll-down a:hover{
-	color:red;
+	color:dodgerblue;
 }
 
 .heading {
@@ -603,7 +603,7 @@ textarea::-ms-input-placeholder
 	-moz-transition:.3s ease-in-out;
 }
 .contact-details .contact-category .social a :hover{
-    color:red;
+    color:dodgerblue;
 }
 
 /* For Footer Section */
